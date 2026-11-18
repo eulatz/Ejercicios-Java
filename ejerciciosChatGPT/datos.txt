@@ -1,0 +1,3 @@
+enero 10 25,5
+febrero error 40 -5
+marzo 100 texto 14,5

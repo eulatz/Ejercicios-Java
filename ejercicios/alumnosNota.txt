@@ -1,0 +1,6 @@
+Ana 8,5
+Luis 4,2
+Marta 9,0
+Carlos 3,8
+Elena 6,5
+Jorge 5,0
